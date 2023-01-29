@@ -22,7 +22,7 @@ p {
     padding-left: 10px;
 }
 
-img {
+main img {
     width: 250px;
     margin: auto;
     border-style: dashed;
@@ -30,7 +30,7 @@ img {
     border-width: 10px;
 }
 
-div {
+main div {
     min-height: 125px;
     padding: 20px;
     border-color: #ffffff;
@@ -81,7 +81,7 @@ div {
 }
 
 .green {
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 5px;
