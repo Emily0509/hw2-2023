@@ -32,7 +32,7 @@ img {
     border-width: 10px;
 }
 
-main div {
+body div {
     min-height: 125px;
     padding: 20px;
     border-color: #ffffff;
@@ -46,7 +46,7 @@ main div {
     line-height: 2;
 }
 
-div.red {
+.red {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
@@ -54,7 +54,7 @@ div.red {
     border-left: 5px;
 }
 
-div.blue {
+.blue {
     background-color: #0000FF;
     border-right: 5px;
     border-top: 2px;
@@ -70,7 +70,7 @@ div.blue {
     color: #c4c4c4
 }
 
-div.yellow {
+.yellow {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
